@@ -1,5 +1,5 @@
 {
-  "name": "plugin-sample-vite-svelte",
+  "name": "siyuan-plugin-flashidea",
   "author": "frostime",
   "url": "https://github.com/siyuan-note/plugin-sample-vite-svelte",
   "version": "0.2.3",
@@ -7,12 +7,12 @@
   "backends": ["all"],
   "frontends": ["all"],
   "displayName": {
-    "en_US": "Plugin sample with vite and svelte",
-    "zh_CN": "插件样例 vite + svelte 版"
+    "en_US": "FlashIdea",
+    "zh_CN": "闪念笔记"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite and svelte",
-    "zh_CN": "使用 vite 和 svelte 开发的思源插件样例"
+    "en_US": "fast create flash idea note",
+    "zh_CN": "快速创建闪念笔记"
   },
   "readme": {
     "en_US": "README.md",
